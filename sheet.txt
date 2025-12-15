@@ -1,3 +1,4 @@
 registration added
 T -15: Implement login user page
 This task involves creating a login form component with email and password fields, including validation nad error handling.
+this task involves fingerprint scanner
