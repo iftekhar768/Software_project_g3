@@ -1,3 +1,6 @@
 ##T-1:Common- Authentication & Profile
 This task involves user validity and profile management from login, registration,delete,edit including error handling.
 Status: Implemented
+##T-2:Common-dashboard & notifications
+thia task involves user analytics , progress, goals & also upcoming  notifications
+ Status: Implemented
