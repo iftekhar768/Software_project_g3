@@ -1,0 +1,3 @@
+##T-1:Common- Authentication & Profile
+This task involves user validity and profile management from login, registration,delete,edit including error handling.
+Status: Implemented
